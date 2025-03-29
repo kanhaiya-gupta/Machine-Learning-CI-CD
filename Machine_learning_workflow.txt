@@ -1,0 +1,20 @@
+In the realm of machine learning, a well-structured workflow is paramount to achieving desirable outcomes.
+A crucial element of this workflow is the order in which the steps are executed. By rearranging the order 
+of the following steps, you will gain a deeper understanding of their significance and their role in a
+typical machine learning project.
+
+The workflow is
+
+1. Requirements Gathering
+2. Data Preparation
+3. Model Development
+4. Model Evaluation and Tuning
+5. Model Testing
+6. Model Deployment
+
+
+
+
+
+
+
