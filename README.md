@@ -1,4 +1,7 @@
-### Machine-Learning-CI-CD/
+## Machine Learning Project Structure
+
+```
+Machine-Learning-CI-CD/
 │── data/                  # Raw and processed data
 │   ├── raw/               # Unprocessed data
 │   ├── processed/         # Processed data for training/testing
